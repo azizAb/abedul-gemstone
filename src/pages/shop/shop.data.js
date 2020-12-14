@@ -1,3 +1,6 @@
+import akik from '../../components/content-img/batu_akik.jpg';
+import permata from '../../components/content-img/batu_permata.png';
+
 const SHOP_DATA = [
     {
     id: 1,
@@ -7,43 +10,43 @@ const SHOP_DATA = [
       {
         id: 1,
         name: 'Labrador 1',
-        imageUrl: 'https://i.ibb.co/ZYW3VTp/brown-brim.png',
+        imageUrl: akik,
         price: 100000
       },
       {
         id: 2,
         name: 'Labrador 2',
-        imageUrl: 'https://i.ibb.co/ypkgK0X/blue-beanie.png',
+        imageUrl: akik,
         price: 80000
       },
       {
         id: 3,
         name: 'Labrador 3',
-        imageUrl: 'https://i.ibb.co/QdJwgmp/brown-cowboy.png',
+        imageUrl: akik,
         price: 120000
       },
       {
         id: 4,
         name: 'Labrador 4',
-        imageUrl: 'https://i.ibb.co/RjBLWxB/grey-brim.png',
+        imageUrl: akik,
         price: 95000
       },
       {
         id: 5,
         name: 'Labrador 5',
-        imageUrl: 'https://i.ibb.co/YTjW3vF/green-beanie.png',
+        imageUrl: akik,
         price: 115000
       },
       {
         id: 6,
         name: 'Labrador 6',
-        imageUrl: 'https://i.ibb.co/rKBDvJX/palm-tree-cap.png',
+        imageUrl: akik,
         price: 100000
       },
       {
         id: 7,
         name: 'Labrador 7',
-        imageUrl: 'https://i.ibb.co/bLB646Z/red-beanie.png',
+        imageUrl: akik,
         price: 110000
       }
     ]
@@ -56,25 +59,25 @@ const SHOP_DATA = [
       {
         id: 8,
         name: 'Lavender 1',
-        imageUrl: 'https://i.ibb.co/0s3pdnc/adidas-nmd.png',
+        imageUrl: akik,
         price: 80000
       },
       {
         id: 9,
         name: 'Lavender 2',
-        imageUrl: 'https://i.ibb.co/dJbG1cT/yeezy.png',
+        imageUrl: akik,
         price: 90000
       },
       {
         id: 10,
         name: 'Anggur 1',
-        imageUrl: 'https://i.ibb.co/bPmVXyP/black-converse.png',
+        imageUrl: akik,
         price: 80000
       },
       {
         id: 11,
         name: 'Anggur 2',
-        imageUrl: 'https://i.ibb.co/1RcFPk0/white-nike-high-tops.png',
+        imageUrl: akik,
         price: 85000
       }
     ]
@@ -87,13 +90,13 @@ const SHOP_DATA = [
       {
         id: 12,
         name: 'Topaz 1',
-        imageUrl: 'https://i.ibb.co/XzcwL5s/black-shearling.png',
+        imageUrl: permata,
         price: 250000
       },
       {
         id: 13,
         name: 'Topaz 2',
-        imageUrl: 'https://i.ibb.co/mJS6vz0/blue-jean-jacket.png',
+        imageUrl: permata,
         price: 350000
       }
     ]
@@ -106,31 +109,31 @@ const SHOP_DATA = [
       {
         id: 14,
         name: 'Citrine',
-        imageUrl: 'https://i.ibb.co/7CQVJNm/blue-tank.png',
+        imageUrl: permata,
         price: 270000
       },
       {
         id: 15,
         name: 'Ruby',
-        imageUrl: 'https://i.ibb.co/4W2DGKm/floral-blouse.png',
+        imageUrl: permata,
         price: 340000
       },
       {
         id: 16,
         name: 'Blue Saphire',
-        imageUrl: 'https://i.ibb.co/KV18Ysr/floral-skirt.png',
+        imageUrl: permata,
         price: 270000
       },
       {
         id: 17,
         name: 'Ruby Daging',
-        imageUrl: 'https://i.ibb.co/N3BN1bh/red-polka-dot-dress.png',
+        imageUrl: permata,
         price: 380000
       },
       {
         id: 18,
         name: 'Kalimaya',
-        imageUrl: 'https://i.ibb.co/KmSkMbH/striped-sweater.png',
+        imageUrl: permata,
         price: 450000
       }
     ]
@@ -143,37 +146,37 @@ const SHOP_DATA = [
       {
         id: 19,
         name: 'Kecubung Karang',
-        imageUrl: 'https://i.ibb.co/xJS0T3Y/camo-vest.png',
+        imageUrl: akik,
         price: 175000
       },
       {
         id: 20,
         name: 'Teratai',
-        imageUrl: 'https://i.ibb.co/qMQ75QZ/floral-shirt.png',
+        imageUrl: akik,
         price: 90000
       },
       {
         id: 21,
         name: 'Pandan',
-        imageUrl: 'https://i.ibb.co/55z32tw/long-sleeve.png',
+        imageUrl: akik,
         price: 150000
       },
       {
         id: 22,
         name: 'Tiger eye',
-        imageUrl: 'https://i.ibb.co/RvwnBL8/pink-shirt.png',
+        imageUrl: akik,
         price: 110000
       },
       {
         id: 23,
         name: 'Sungai Dareh',
-        imageUrl: 'https://i.ibb.co/VpW4x5t/roll-up-jean-shirt.png',
+        imageUrl: akik,
         price: 130000
       },
       {
         id: 24,
         name: 'Pasir Intan',
-        imageUrl: 'https://i.ibb.co/mh3VM1f/polka-dot-shirt.png',
+        imageUrl: akik,
         price: 125000
       }
     ]
