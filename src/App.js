@@ -36,6 +36,7 @@ class App extends Component {
       <div>
         <Header currentUser={this.state.currentUser}/>
         <Switch>
+          <Route exact path='/abedul-gemstone' component={HomePage} />
           <Route exact path='/' component={HomePage} />
           <Route path='/shop' component={ShopPage} />  
           <Route path='/signin' component={SigninAndSignup} />
