@@ -1,26 +1,27 @@
 {
   "files": {
-    "main.css": "/abedul-gemstone/static/css/main.9dfd50da.chunk.css",
-    "main.js": "/abedul-gemstone/static/js/main.7fa5bdc1.chunk.js",
-    "main.js.map": "/abedul-gemstone/static/js/main.7fa5bdc1.chunk.js.map",
+    "main.css": "/abedul-gemstone/static/css/main.6aac3fba.chunk.css",
+    "main.js": "/abedul-gemstone/static/js/main.714575ce.chunk.js",
+    "main.js.map": "/abedul-gemstone/static/js/main.714575ce.chunk.js.map",
     "runtime-main.js": "/abedul-gemstone/static/js/runtime-main.79a7baed.js",
     "runtime-main.js.map": "/abedul-gemstone/static/js/runtime-main.79a7baed.js.map",
-    "static/js/2.089cf7bd.chunk.js": "/abedul-gemstone/static/js/2.089cf7bd.chunk.js",
-    "static/js/2.089cf7bd.chunk.js.map": "/abedul-gemstone/static/js/2.089cf7bd.chunk.js.map",
+    "static/js/2.4db5b350.chunk.js": "/abedul-gemstone/static/js/2.4db5b350.chunk.js",
+    "static/js/2.4db5b350.chunk.js.map": "/abedul-gemstone/static/js/2.4db5b350.chunk.js.map",
     "index.html": "/abedul-gemstone/index.html",
-    "static/css/main.9dfd50da.chunk.css.map": "/abedul-gemstone/static/css/main.9dfd50da.chunk.css.map",
-    "static/js/2.089cf7bd.chunk.js.LICENSE.txt": "/abedul-gemstone/static/js/2.089cf7bd.chunk.js.LICENSE.txt",
+    "static/css/main.6aac3fba.chunk.css.map": "/abedul-gemstone/static/css/main.6aac3fba.chunk.css.map",
+    "static/js/2.4db5b350.chunk.js.LICENSE.txt": "/abedul-gemstone/static/js/2.4db5b350.chunk.js.LICENSE.txt",
     "static/media/Kecubung.cdeb4444.JPG": "/abedul-gemstone/static/media/Kecubung.cdeb4444.JPG",
     "static/media/Labrador.de0925c6.JPG": "/abedul-gemstone/static/media/Labrador.de0925c6.JPG",
     "static/media/Topaz.7cb9f4ef.jpg": "/abedul-gemstone/static/media/Topaz.7cb9f4ef.jpg",
     "static/media/batu_akik.5f71b038.jpg": "/abedul-gemstone/static/media/batu_akik.5f71b038.jpg",
     "static/media/batu_permata.f9e1c0e4.png": "/abedul-gemstone/static/media/batu_permata.f9e1c0e4.png",
-    "static/media/crown.3a4e2b15.svg": "/abedul-gemstone/static/media/crown.3a4e2b15.svg"
+    "static/media/crown.3a4e2b15.svg": "/abedul-gemstone/static/media/crown.3a4e2b15.svg",
+    "static/media/shopping-bag.a688874f.svg": "/abedul-gemstone/static/media/shopping-bag.a688874f.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.79a7baed.js",
-    "static/js/2.089cf7bd.chunk.js",
-    "static/css/main.9dfd50da.chunk.css",
-    "static/js/main.7fa5bdc1.chunk.js"
+    "static/js/2.4db5b350.chunk.js",
+    "static/css/main.6aac3fba.chunk.css",
+    "static/js/main.714575ce.chunk.js"
   ]
 }
